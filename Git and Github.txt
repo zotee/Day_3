@@ -1,0 +1,27 @@
+To check the configured username and user email in your Git configuration,
+
+"Add command here"
+
+To initialize new github repository,
+
+"Add command here"
+
+To check the status of repository,
+
+"Add command here"
+
+Staging the changes,
+
+"Add command here"
+
+Commiting Changes,
+
+"Add command here"
+
+To see the commit history and log,
+
+"Add command here"
+
+To go to a specific commit,
+
+"Add command here"
