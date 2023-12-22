@@ -1,27 +1,27 @@
 To check the configured username and user email in your Git configuration,
 
-"Add command here"
-
+"git config --global user.name'username'"
+git config --global user.mail'email'"
 To initialize new github repository,
 
-"Add command here"
+"git init"
 
 To check the status of repository,
 
-"Add command here"
+"git status"
 
 Staging the changes,
 
-"Add command here"
+"git add"
 
 Commiting Changes,
 
-"Add command here"
+"git commit -m "initialcommit""
 
 To see the commit history and log,
 
-"Add command here"
+"git log"
 
 To go to a specific commit,
 
-"Add command here"
+"git checkout"
